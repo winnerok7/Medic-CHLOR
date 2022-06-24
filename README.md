@@ -4,4 +4,4 @@
 
 Website for the maxillofacial and ENT department of the hospital  
 
-https://winnerok7.github.io/medic-chlor/
+https://winnerok7.github.io/Medic-CHLOR/
